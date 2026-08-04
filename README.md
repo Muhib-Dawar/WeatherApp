@@ -57,7 +57,14 @@ app
 
 ## 📱 Screenshots
 
-> Screenshots will be added below.
+### Home Screen
+![Home](home.png)
+
+### Search Screen
+![Search](search.png)
+
+### Favorites Screen
+![Favorites](favorites.png)
 
 ---
 
